@@ -1,0 +1,1 @@
+clang $1 -o out && ./out $2 && rm ./out
